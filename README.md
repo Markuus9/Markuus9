@@ -4,10 +4,11 @@
 
 <div align="center">
     <p><b>Un ingeniero de software apasionado por el desarrollo de aplicaciones móviles. A lo largo de mi formación, he trabajado con una variedad de lenguajes, como C++, C, Java, Bash, Python, SQL, Erlang, R y MIPS, además de herramientas y entornos como Docker, Git, OpenGL y Axure, entre otras. Esta experiencia me ha dado una visión integral y la capacidad de adaptarme rápidamente a nuevas tecnologías. Actualmente, mi stack de preferencia incluye C++, Java, Swift y SQL, que se alinean perfectamente con el desarrollo de aplicaciones móviles, donde realmente disfruto y tengo mis mejores habilidades.</b>🛸</p>
-  <a href="#">
-    <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0387.gif" border="0" width="100%" height="2px"/>
-  </a>
 </div>
+
+<a href="#">
+    <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0387.gif" border="0" width="100%" height="2px"/>
+</a>
 
 ### 👨‍💻About me
 
@@ -23,9 +24,9 @@
 
 - 💪 No me rindo ante los desafíos: Mi enfoque es perseverante y orientado a resolver problemas, siempre dispuesto a enfrentar nuevos retos hasta lograr los resultados deseados.
   
-  <a href="#">
+<a href="#">
     <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0387.gif" border="0" width="100%" height="2px"/>
-  </a>
+</a>
   
 ### ⚒️ Skills
 
