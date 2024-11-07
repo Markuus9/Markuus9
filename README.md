@@ -31,12 +31,31 @@
 
 <div id="Skills">
     <a href="https://github.com/Markuus9/Perfil" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60px" height="60px"/> </a>
-    <a href="https://github.com/Markuus9/Perfil"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/100px-The_C_Programming_Language_logo.svg.png" alt="C" title="C" width="60px" height="60px"></a>
-    <a href="https://github.com/Markuus9/Perfil"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png" alt="Java" title="Java" width="40px" height="60px"></a>
-    <a href="https://github.com/Markuus9/Perfil"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/120px-Gnu-bash-logo.svg.png" alt="bash" title="bash" width="60px" height="60px"></a>
-    <a href="https://github.com/Markuus9/Perfil"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/150px-Python-logo-notext.svg.png" alt="python" title="python" width="60px" height="60px"></a>
-    <a href="https://github.com/Markuus9/Perfil"><img src="https://es.wikipedia.org/wiki/Archivo:Swift_logo.svg" alt="Swuift" title="Swuift" width="60px" height="60px"></a>
-    <a href="https://github.com/Markuus9/Perfil"><img src="https://static.wikia.nocookie.net/softwareprogramas-y-aplicaciones/images/1/1b/MySQL..png/revision/latest/scale-to-width-down/1200?cb=20160314025746&path-prefix=es" alt="MySQL" title="MySQL" width="60px" height="60px"></a>
-    <a href="https://github.com/Markuus9/Perfil"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Erlang_logo.png/225px-Erlang_logo.png" alt="Erlang" title="Erlang" width="60px" height="60px"></a>
+    &nbsp;
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a>
+    &nbsp;
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
+    &nbsp;
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/> </a>
+    &nbsp;
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
+    &nbsp;
+    <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="60" height="60"/> </a>
+    &nbsp;
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>
+    &nbsp;
+    <a href="https://www.erlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="60" height="60"/> </a>
+    &nbsp;
     <a href="https://github.com/Markuus9/Perfil"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/150px-R_logo.svg.png" alt="R" title="R" width="60px" height="60px"></a>
+    &nbsp;
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a>
+    &nbsp;
+    <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="60" height="60"/> </a>
 </div>
+
+<a href="#">
+    <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0387.gif" border="0" width="100%" height="2px"/>
+</a>
+
+### 🧩 Connecta
+<a href="https://linkedin.com/in/prueba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prueba" height="30" width="40" /></a>
