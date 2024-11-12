@@ -14,8 +14,6 @@
 
 - 📖 Investigo profundamente la documentación: Me esfuerzo por entender cada aspecto técnico, consultando la documentación oficial para asegurar que aplico las mejores prácticas en cada proyecto.
 
-- 🎥 Aprendo constantemente a través de cursos y recursos en línea: Utilizo plataformas como YouTube y otros recursos para actualizarme en herramientas y tecnologías relevantes.
-
 - 🧩 Aplico lo que aprendo a proyectos reales: Siempre busco poner en práctica lo estudiado, creando prototipos y experimentando con proyectos propios.
 
 - 🔎 Me mantengo al tanto de las nuevas tecnologías: Estoy en constante aprendizaje sobre tendencias, librerías y frameworks en el ámbito de desarrollo de software para ofrecer soluciones actualizadas e innovadoras.
