@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <p><b>Un ingeniero de software apasionado por el desarrollo de aplicaciones móviles. A lo largo de mi formación, he trabajado con una variedad de lenguajes, como C++, C, Java, Bash, Python, SQL, Erlang, R y MIPS, además de herramientas y entornos como Docker, Git, OpenGL y Axure, entre otras. Esta experiencia me ha dado una visión integral y la capacidad de adaptarme rápidamente a nuevas tecnologías. Actualmente, mi stack de preferencia incluye C++, Java, Swift y SQL, que se alinean perfectamente con el desarrollo de aplicaciones móviles, donde realmente disfruto y tengo mis mejores habilidades.</b>🛸</p>
+    <p><b>Un ingeniero de software apasionado por el desarrollo de aplicaciones móviles y de escritorio. A lo largo de mi formación, he trabajado con una variedad de lenguajes, como C++, C, Java, Bash, Python, SQL, Erlang, R y MIPS, además de herramientas y entornos como Docker, Git, OpenGL y Axure, entre otras. Esta experiencia me ha dado una visión integral y la capacidad de adaptarme rápidamente a nuevas tecnologías. Actualmente, mi stack de preferencia incluye C++, Java, Swift y SQL, que se alinean perfectamente con el desarrollo de aplicaciones móviles, donde realmente disfruto y tengo mis mejores habilidades.</b>🛸</p>
 </div>
 
 <a href="#">
