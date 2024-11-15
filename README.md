@@ -26,7 +26,7 @@
     <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0387.gif" border="0" width="100%" height="2px"/>
 </a>
   
-### ⚒️ Skills
+### ⚒️ Programming Languages
 
 <div id="Skills">
     <a href="https://github.com/Markuus9/Perfil" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60px" height="60px"/> </a>
@@ -41,7 +41,7 @@
     &nbsp;
     <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="60" height="60"/> </a>
     &nbsp;
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a>
+    <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="60" height="60"/> </a> 
     &nbsp;
     <a href="https://www.erlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="60" height="60"/> </a>
     &nbsp;
@@ -51,6 +51,12 @@
     &nbsp;
     <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="60" height="60"/> </a>
 </div>
+
+<a href="#">
+    <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0387.gif" border="0" width="100%" height="2px"/>
+</a>
+
+### Technology Tools/frameworks I have used
 
 <a href="#">
     <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0387.gif" border="0" width="100%" height="2px"/>
