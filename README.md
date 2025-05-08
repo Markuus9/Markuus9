@@ -9,22 +9,6 @@
 <a href="#">
     <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0387.gif" border="0" width="100%" height="2px"/>
 </a>
-
-### 👨‍💻About me
-
-- 📖 Investigo profundamente la documentación: Me esfuerzo por entender cada aspecto técnico, consultando la documentación oficial para asegurar que aplico las mejores prácticas en cada proyecto.
-
-- 🧩 Aplico lo que aprendo a proyectos reales: Siempre busco poner en práctica lo estudiado, creando prototipos y experimentando con proyectos propios.
-
-- 🔎 Me mantengo al tanto de las nuevas tecnologías: Estoy en constante aprendizaje sobre tendencias, librerías y frameworks en el ámbito de desarrollo de software para ofrecer soluciones actualizadas e innovadoras.
-
-- 🎨 Utilizo una variedad de tecnologías: Me gusta explorar y experimentar con diferentes herramientas y tecnologías, adaptándome a las necesidades de cada proyecto.
-
-- 💪 No me rindo ante los desafíos: Mi enfoque es perseverante y orientado a resolver problemas, siempre dispuesto a enfrentar nuevos retos hasta lograr los resultados deseados.
-  
-<a href="#">
-    <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0387.gif" border="0" width="100%" height="2px"/>
-</a>
   
 ### ⚒️ Programming Languages
 
