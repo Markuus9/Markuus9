@@ -1,50 +1,109 @@
 <div align="center">
-    <h1>Hola👋, soy Marc</h1>
+    <h1>¡Hola! 👋 Soy Marc Gómez</h1>
+    <h3>🎓 Estudiante de Ingeniería Informática @ UPC | 📱 Desarrollador de Aplicaciones Multiplataforma</h3>
 </div>
 
 <div align="center">
-    <p><b>Un ingeniero de software apasionado por el desarrollo de aplicaciones móviles y de escritorio. A lo largo de mi formación, he trabajado con una variedad de lenguajes, como C++, C, Java, Bash, Python, SQL, Erlang, R y MIPS, además de herramientas y entornos como Docker, Git, OpenGL, Axure, entre otras. Esta experiencia me ha dado una visión integral y la capacidad de adaptarme rápidamente a nuevas tecnologías. Actualmente, mi stack de preferencia incluye C++, Java, Swift y SQL, que se alinean perfectamente con el desarrollo de aplicaciones móviles y escritorio, donde realmente disfruto y tengo mis mejores habilidades.</b>🛸</p>
+    <p>
+        Estudiante de <strong>Ingeniería Informática en la UPC</strong> con pasión por crear experiencias digitales que impacten. 
+        Me especializo en <strong>desarrollo móvil</strong> y <strong>aplicaciones web</strong>, siempre buscando aprender nuevas tecnologías 
+        y mejorar mis habilidades. 🚀
+    </p>
 </div>
 
-<a href="#">
-    <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0387.gif" border="0" width="100%" height="2px"/>
-</a>
-  
-### ⚒️ Programming Languages
+---
 
-<div id="Skills">
-    <a href="https://github.com/Markuus9/Perfil" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60px" height="60px"/> </a>
-    &nbsp;
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a>
-    &nbsp;
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a>
-    &nbsp;
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/> </a>
-    &nbsp;
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> </a>
-    &nbsp;
-    <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="60" height="60"/> </a>
-    &nbsp;
-    <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="60" height="60"/> </a> 
-    &nbsp;
-    <a href="https://www.erlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="60" height="60"/> </a>
-    &nbsp;
-    <a href="https://github.com/Markuus9/Perfil"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/150px-R_logo.svg.png" alt="R" title="R" width="60px" height="60px"></a>
-    &nbsp;
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> </a>
-    &nbsp;
-    <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="60" height="60"/> </a>
+### 🛠️ Mi Stack Tecnológico
+
+<div align="center">
+
+**🔥 Tecnologías que domino**
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**⚡ En constante aprendizaje**
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**🛠️ Herramientas & Sistemas**
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
 </div>
 
-<a href="#">
-    <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0387.gif" border="0" width="100%" height="2px"/>
-</a>
+---
 
-### Technology Tools/frameworks I have used
+### 🚀 Proyectos Destacados
 
-<a href="#">
-    <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0387.gif" border="0" width="100%" height="2px"/>
-</a>
+<div align="center">
 
-### 🧩 Connecta
-<a href="https://www.linkedin.com/in/marc-gomez-asensio/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prueba" height="50" width="60" /></a>
+| 📱 **HexCalculator** | 🏆 **Liga UPC** | 🌐 **Flysy** |
+|:---:|:---:|:---:|
+| App iOS para cálculos hexadecimales | Sistema de gestión deportiva | Plataforma de gestión de vuelos |
+| `SwiftUI` `Swift` | `Flutter` `PHP` `MySQL` | `React` `Node.js` `Docker` |
+| [📱 App Store](https://apps.apple.com/us/app/id6468353847) | [📱 En desarrollo](#) | [🌐 Ver demo](https://flysy.software) |
+
+</div>
+
+---
+
+### 🎯 Sobre mí
+
+```javascript
+const marc = {
+    ubicacion: "Barcelona, España 🇪🇸",
+    educacion: "Ingeniería Informática @ UPC",
+    intereses: ["Desarrollo Mobile", "Aplicaciones Web", "UI/UX", "Open Source"],
+    actualmente: {
+        estudiando: ["React Native", "Cloud Computing", "Machine Learning"],
+        trabajando_en: "Proyectos universitarios y personales",
+        objetivo: "Encontrar oportunidades de prácticas o trabajo junior"
+    },
+};
+```
+
+---
+
+### 📊 Estadísticas GitHub
+
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Markuus9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markuus9&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+### 🤝 ¡Conectemos!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-gomez-asensio/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://markuus9.github.io/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcgomezasensio@icloud.com)
+
+</div>
+
+<div align="center">
+    <p>
+        💡 <strong>¿Tienes una idea interesante?</strong> ¡Me encantaría colaborar contigo!<br>
+        🚀 <strong>¿Buscas talento junior?</strong> Estoy abierto a nuevas oportunidades.
+    </p>
+</div>
+
+---
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Markuus9&color=blueviolet&style=flat-square&label=Visitas+al+perfil" alt="Contador de visitas" />
+</div>
